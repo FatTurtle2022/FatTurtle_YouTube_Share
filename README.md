@@ -1,0 +1,2 @@
+# FatTurtle_YouTube_Share
+此软件可以为YouTube视频生成分享图片。
